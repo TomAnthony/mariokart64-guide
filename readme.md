@@ -17,20 +17,20 @@ The techniques in this section are things anyone who has been racing for a while
 - Power sliding - you need to learn to power slide. You can get a mini-boost from these once you get good, and when you get really good you can strafe around objects with it.
 - Starting boost - learn when to accelerate at the start of the race to get a boost (just after the second light comes on). However, often there is no benefit to doing this on certain courses you may be better getting a strong weapon to start.
 - You can single or chains of bananas forward. It is hard to do but with practice this can be useful for slowing people down.
-- You can prevent spinning out if you hit a banana by tapping your break (you need to have hit it straight on for this to work). You can actually do this without letting go of the accelerator too, but it doesn't seem to make much difference. You can also avoid spinning out by letting off the accelerator.
+- You can prevent spinning out if you hit a banana by tapping your brake (you need to have hit it straight on for this to work). You can actually do this without letting go of the accelerator too, but it doesn't seem to make much difference. You can also avoid spinning out by letting off the accelerator.
 - Firing a red in first place creates a 'circler' that will just go round and round the course until it hits something. This can be useful in first place as it will need to pass the other players on the next lap before it gets to you so you'll have a warning (if you've stayed in first) but they won't.
 - You can hold both A & B to spin on the spot, which is useful for getting out of corners or manoeuvring around obstacles
 - You can hold down the trigger to drag objects behind you, these will still hurt other players that touch them, but will also act as defence for green and red shells coming from behind (as most do). A shell being dragged can still be fired, and a banana still thrown. Dragging objects also frees up your object box for collecting another item.
-- You can fire green shells backwards by pull back on the control stick when you fire.
+- You can fire green shells backwards by pulling back on the control stick when you fire.
 - After you pick up a box, you can speed up 'locking in' the weapon by pulling the trigger. This works a few seconds after picking up a box.
 
 # Driving Techniques
 
 - After being hit by anything triple tap the accelerator to go back to full speed instantly.
-- You can hop over bombs on the track if you get the timing right. You shouldn't plan to do this usually as it is easy to mess up but can save you if you don't have time to move around it.
-- Learn to steal boxes from players who are just behind you. Learn their preferred boxes and routes and look where they are to anticipate which box they want and steal it just before so they get no weapon. Box denying is critical against good opponents to eek out an advantage.
+- You can hop over bombs or bananas (but not bomb boxes) on the track if you get the timing right. You shouldn't plan to do this usually as it is easy to mess up but can save you if you don't have time to move around it.
+- [**Advanced**] Learn to steal boxes from players who are just behind you. Learn their preferred boxes and routes and look where they are to anticipate which box they want and steal it just before so they get no weapon. Box denying is critical against good opponents to eek out an advantage.
 - If you are being shot at with a red as you're getting close to the finishing line on the last lap, make sure you orient your kart directly towards the line so if you get hit you might roll over the line.
-- [**Advanced**] If you see an obstacle, such as a box, on your path within a short distance it can be hard to avoid. You can use a hop to change direction more quickly to 'hop around' these obstacles. With practice this can be done quite late.
+- If you see an obstacle, such as a box, on your path within a short distance it can be hard to avoid. You can use a hop to change direction more quickly to 'hop around' these obstacles. With practice this can be done quite late.
 - [**Advanced**] A nice way to steal boxes is using a power slide, where you are tilted (moving forward but facing at an angle) to suddenly boost sideways across the track taking the boxes before they can change course for another box.
 - [**_Expert_**] You can strafe left and right whilst power sliding to adjust your cornering for items on the course.
 
@@ -56,10 +56,12 @@ The techniques in this section are things anyone who has been racing for a while
 
 ## Attack
 
+- In general it is better to hold a weapon for as long as possible to make sure that you get a lower placed box (e.g. using a red on the 3rd place player while in 4th may cause you to get a 3rd place box when you could have had a 4th place box and then shot them).
+- Try to avoid weapon usage that opens up large gaps in the field ahead of you - when in 3rd or 4th, it's to your advantage for 2nd to be in range to shoot first. When you're 4th, it's to your advantage for 3rd to be in range to shoot 2nd.
 - If you have multiple reds (either spinning or one dragged and one in your box) [or greens] and the person in front of you is dragging a defence object you can 'double tap' them by firing both shells in very quick succession you can strip their defence and hit them. Do it quickly as a skilled player will be able to double defend if there is a gap between the attack shells.
 - Learn to use other's screens to aim your green shells when shooting backwards. On straights you can steer slightly left or right to hit people at an angle.
 - Use single or sets of greens and bounce them off walls at a tight angle so they bounce back and forth to create trouble for those behind you. We call these 'tormentors'. Particularly useful on any small bridges or tunnels.
-- You can also fire greens directly forward in tunnels just before you turn off so they bounce back directly oncoming for those behind you in the tunnel.
+- You can also fire greens directly forward in tunnels just before you turn off so they bounce back directly oncoming for those behind you in the tunnel. This is especially easy while power sliding.
 - An obvious good place to place fake boxes is on top of a real box thus making it harder for opponents to see.
 - It can often be beneficial to and slightly hang back in a tight pack. This will allow you to get a last placed box which may be a lightning/invicible which would allow you to pull away. A good example of this is the first set of boxes on any course.
 - [**Advanced**] If someone ahead of you goes off the course, on some courses you can overtake that person but the positions won't update until they are returned to the course. If you lock a box in during this time you'll get a better weapon.
@@ -75,7 +77,7 @@ The techniques in this section are things anyone who has been racing for a while
 
 ## Luigi Raceway (Luigi)
 
-This course is hard to differentiate yourself on and good weapons often win the day. In a tight pack you should hang back just picking up last place boxes waiting for a killer weapon then keep it in reserve to the last moment. A lightning or a star will serve you very well if used after the tunnel on last lap.  A golden boost can also do well given how much you gain by cutting off the corners and going over the grass.
+This course is hard to differentiate yourself on and good weapons often win the day. In a tight pack you should hang back just picking up last place boxes waiting for a killer weapon then keep it in reserve to the last moment. A lightning or a star will serve you very well if used after the tunnel on last lap.  A golden boost can also do well given how much you gain by cutting off the corners and going over the grass. This is a similar principle to "grand tour" cycle racing - its advantageous to be in the pack until unless you have the opportunity to form a clean breakaway, putting you out of range of 2nd place weapons.
 
 If in a pack with a wider array of skills then you can't afford to stay back and so need to stay near the front but not in 1st. Ideally 2nd. Then use the same principle as above. Try to get some shells or anything that can hurt 1st at the last moment, but be careful to defend behind you too.
 
@@ -83,15 +85,17 @@ If in a pack with a wider array of skills then you can't afford to stay back and
 
 ## Moo Moo Farm (Moo Moo)
 
-Another course where a good weapon can make a big difference, but not as bad as Luigi!
+Another course where a good weapon can make a big difference, but not as bad as Luigi - weapon ranges are typically shorter and a good racing line can make a bigger difference.
+
+It's possible to pick a route through the moles to save time, although this is a medium risk / low reward tactic.
 
 - You can drop red shells by driving close to/around the pillars on the course.
 
 ## Koopa Trooper Beach (Beach)
 
-- The box on top of the hill after the big ramp is a guaranteed hunt the leader shell. This can be vital if you've fallen behind, and with practice can be used to hit someone as they are going for the cave jump.
+- The box on top of the hill after the big ramp (just before the final corner) is a guaranteed hunt the leader shell. This can be vital if you've fallen behind, and with practice can be timed to hit someone as they are going for the cave jump.
 - If you get hit by a lightning as you're about to take the cave jump, and you have boosts, then you can position yourself on the ramp to wait to get big. Do NOT use the accelerator when you get big, but instead click the trigger repeatedly until your boost activates. Your accelerator activates before your weapons, and you'll roll off the ramp before the boosts can work.
-- [**Advanced**] You should know there backup route for if you can't take the cave jump route. You should also realise it can be faster to go to the right of the right side of the archway rather than under the archway then to the right.
+- You should know there backup route for if you can't take the cave jump route. You should also realise it can be faster to go to the right of the right side of the archway rather than under the archway then to the right.
 - [**Advanced**] If you are being chased by a hunt the leader you can ditch it by crossing the sand dune on the right after the archway (means you can't take the tunnel route though). Timed right the shell will pass by you as it takes the main route. Be aware of it coming for you in a laps time!
 - [**Advanced**] After the first corner you can break left to go round a little side route or take the 'main' course. The side route is not only quicker with practice but also treats you as being behind the racers on the main course, so you can get a better weapon with the right timing.
 - [**Advanced**] If you are hit before the jump then a triple tap to get to full speed and a hop at the the end of the ramp will be enough to get you into the tunnel with the light characters.
@@ -102,16 +106,20 @@ Another course where a good weapon can make a big difference, but not as bad as 
 ## Kalimari Desert (Kalimari)
 
 - After the second train track crossing it is quicker to break left across the dirt and power slide than to follow the track. Even more so with mushrooms or invincibility.
+- With boosts or star power, it is quicker to shortcut direct to the next boxes after the first track crossing.
 - [**Advanced**] If being chased by a hunt the leader cross the dirt after the second train crossing also has the benefit that it will pass you by for that lap. Requires being in the right place at the right time. Bear it in mind when attacking.
 
 ## Toad’s Turnpike (Toad’s)
 
 - If you are leading with an incoming hunt the leader you should use the screen of the player in second place to assess the safety of going into the layby for a weapons box. Getting hit by a hunt the leader in the layby has a high risk of knocking you out of the course.
 - [**Advanced**] Make sure you take all the boxes in each layby if you have someone close behind to deny them a box. You can power slide and boost out.
+- It is possible to take an inside line between the crash barrier and buses, although the gap is narrower than it is with trucks. This is useful to avoid long distance reds shells.
+- Dive to the left immediately after the start/finish line to drop any red or blue shells that are close to hitting you.
 
 ## Frappe Snowland (Frappe)
 
-- A well timed lightning attack before the jump over the ice river (just before the snowman field) will slide the player up the ramp and they’ll fall in the water losing more time. If you are leading and the likely target you should either let the second place over take you or try to break and speed up suddenly to throw off timing.
+- In general, Frappe is a course with excellent long range red opportunities. At most points in the course it is possible to shoot around a third of a lap ahead, although the water crossings break these red shell paths unless you fire immediately before them.
+- A well timed lightning attack before the jump over the ice river (just before the snowman field) will slide the player up the ramp and they’ll fall in the water losing more time. If you are leading and the likely target you should either let the second place overtake you or try to break and speed up suddenly to throw off timing.
 - There is a glitch where if you go over the bridge at the end of the course with invincibility there's a chance you'll fall through the bridge into the river. If you have a star power, consider saving it until after the bridge.
 - [**Advanced**] If you are being chased by reds on the snowman field you should go to the right of the giant snowman and they will hit him and you'll be ok.
 - [**_Expert_**] The snowman field is flat and open and leaves you open to red shell attacks. After the snowman field is a bend which you can cut off by driving over before you go through the valley. It is possible to shake off red shells and hunt the leader shells by driving up the right hand side of the valley then jumping down after the shells have hit the wall below you. Don't go too far from the edge or too high or you'll be marked out of the course.
@@ -123,11 +131,12 @@ Another course where a good weapon can make a big difference, but not as bad as 
 - [**Advanced**] If there are multiple lightnings in play and another player tries to lightning people off on the corner, you can use your lightning to make them slide even farther if they haven’t already gone down. Rare scenario but can be tactically v. useful.
 - [**Advanced**] A hunt the leader shell will climb up the jump so if you fire it at the right time it catches the leader much quicker.
 - [**Advanced**] There are points on the track where you can fire reds which climb walls and so can hit people way ahead. Use the map to judge / learn.
-- [**Advanced**] If you have a green shell and an opponent just behind you whilst going around the big corner, you can pull in and fire whilst they overtake. The direction and force of the the shell will knock them off.
+- [**Advanced**] If you have a shell and an opponent just behind you whilst going around the big corner, you can pull in and fire (or juts hold your trigger to hold the shell out behind you) whilst they overtake. The direction and force of the the shell will knock them off.
 
 ## Mario Raceway (Mario)
 
 - A golden mushroom or star can be huge on this course; the whole section of the track before the tunnel at the end lends itself to having the corners cut off.
+- It's advantageous to cut the corner before the finish line as long as you get a power slide boost. This is also true of the corner before the last boxes.
 
 ## Wario Stadium (Wario)
 
@@ -147,39 +156,43 @@ Very rarely race this in multiplayer because it is so long.
 - If a hunt the leader goes over the jump as the leader is in the air, it will land and wait for them, but they will not get hit by it. You can use this as defence when leading, and should keep it in mind when attacking.
 - If there is a lightning in play and you are not leading the pack (meaning someone else will likely get targeted by the lightning as they are going for the jump), you can use the second zipper as a defence (you are invincible when you are on it). You can turn and ram repeatedly into the wall and stay on the booster for several seconds, meaning you won’t be lightning’d and now can make a break for the jump. Keep this in mind when attacking.
 - [*Experimental*] If you hop just before the end of the ramp and keep the hop button held down you won't bounce on landing (which is bad as it can put you over the boxes).
+- After the first boxes, there is a sharp bend next to water - this is a good spot to put people in with a lightning or bananas, and the wall to the right just before this corner can be fired over with reds.
 
 ## Bowser’s Castle (Bowser’s)
 
 - The two jumps are an ideal place to lightning people. Learn to brake and triple tap (back to full speed) to throw off people's timing, and don't forget a hop can save you (see driving tips).
 - If you have multiple people ahead of you, it can be wise to let the leader over the jump and then lightning them in to the second jump (harder to do though) so the people behind may go in on the second jump.
+- If you are the leader and someone is likely to try to lightning you in on the second jump, make sure you are angled to go straight over from as far ahead as possible.
 
 ## D.K.’s Jungle Parkway (DKs)
 
-- If you are lightning'ed just as you hit the zipper, put your brakes on fully and you'll fall to the track below rather than going in the water. If you have weapons this can help you attack others and provides more control for taking the jump.
+- If you are lightning'ed just as you hit the zipper, put your brakes on fully and you'll fall to the track below rather than going in the water. You can steer in the air to maximise your benefit from this. If you have weapons this can help you attack others and provides more control for taking the jump.
 - You should angle yourself when you hit the jump to cut off some of the track on the other side. Aim to hit the boxes by hitting the ramp on the very right side and tilting your cart to the front left corner of the ramp.
 - There is a second good place to lightning people where there is an open corner just after some boxes where you can slide people into the river if they aren't paying attention.
-
+- The thin bridge before the start/finish straight is an ideal place to shoot people in with reds, hunt the leaders or star power - time weapon to hit just before they get onto the bridge.
+- You can cut up the slope in the cave very sharply if you have boosts.
 
 ## Yoshi Valley (Yoshi)
 
-- It takes practice but you need to learn the jump shortcut to be competitive against good racers. There is a section of the course right after all the maze sections reconnect where there are some boxes straight ahead and the course loops back on itself on the left side. You can jump from up high to down low to save vital seconds. Watch out for lightnings (and learn to feint if there is one so they pull it and you stay on the track).
+- It takes practice but you need to learn the jump shortcut to be competitive against good racers. There is a section of the course right after all the maze sections reconnect where there are some boxes straight ahead and the course loops back on itself on the left side. You can jump from up high to down low to save vital seconds. Watch out for lightnings (and learn to feint if there is one so they pull it and you stay on the track). With practice this jump is easier than the more obvious one on Beach, as there is a wider range of viable angles - follow the fence along the right hand side of the course before the boxes, then turn left perpendicular to the course, let off the accelerator for a moment, and hop as you reach the edge of the track.
 - [**Advanced**] There are two routes that are fast but the better one is 1st right, 1st left, over the bridge and round. However, you should learn other routes in case there are unavoidable boobie traps on the primary route. I prefer 1st left then over the thin road straight ahead as it has more boxes, but for pure racing speed 1st left 1st right 1st left is faster if you can avoid the mites.
 - [**Advanced**] On the primary route you can throw a banana chain forward just after you've turned left to go over the bridge. They'll land on the track above on the run up to the jump!
 - [**Advanced**] You can get over the jump from a standing start if you have a boost. If you get hit just before the jump you can AB-spin to the correct angle and boost over.
 - [**Advanced**] A box can be placed hanging in mid air on the jump shortcut which can obstruct people (and is more hidden than on the accelerator)
 - [**_Expert_**] It is possible to make the jump when you are small, if you have time to get to full speed and do a power slide and then use the power slide boost right at the edge. However it is risky!
+- This track has multiple narrow sections which are ideal for boobie trapping, but pay attention to enemy weapon placement as in most cases the bridges are just wide enough to make perfectly blocking the course impossible.
 
 ## Banshee Boardwalk (Bansh)
 
-- Lightnings work well to target people on the chicane corner before the ledge jump down to the house entrance, but also work well as people go in to the house. if a bat flies into them it will squash them.
+- Lightnings work well to target people on the chicane corner before the ledge jump down to the house entrance, but also work well as people go in to the house. If a bat flies into them it will squash them.
 - [**Advanced**] If you are first to enter the house and you have been lightning'ed to be small, if you turn right then go right over to the wall you can drive down the right hand side of the bats without being squashed. You can the drive in front of where they come out and are immune to being squashed here too. Take the next turn tightly to avoid the next set of bats.
-- [**Advanced**] If you are not first and are small entering the house then crossing the bat line is a big risk, you can go dow the left side of the bats if you can squeeze around the corner tightly and have a bit of luck.
+- [**Advanced**] If you are not first and are small entering the house then crossing the bat line is a big risk, you can go down the left side of the bats if you can squeeze around the corner tightly and have a bit of luck.
 - [**Advanced**] Inside the ghost house after the right turn there is a chasm on the left. You can hop over this fairly easily with practice and it will save you some time. Good place to lay booby traps against other players.
 - [*Experimental*] If you mushroom boost over the gap in the house you don't need to hop.
 
 ## Rainbow Road
 
-We don't race this as it is long and boring. You should just concentrate on dodging the chomp, and taking a strong racing line. Pure racing to win the day.
+We don't race this as it is long and boring. You should just concentrate on dodging the chomp, taking a strong racing line, and maximising your pick up of 3rd/4th place weapons in tight races. Pure racing to win the day.
 
 # Credits
 
