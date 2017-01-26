@@ -98,7 +98,6 @@ Another course where a good weapon can make a big difference, but not as bad as 
 - [**Advanced**] If a hunt the leader is coming, you can avoid it by going around the little mountain to the left after the first turn of the course. The shell will go by and you'll be safe until it does another lap. Timing takes practice, but if you are in the right area this can be a good time saver. Don’t forget it will come back round (but with practice you’ll know when to expect it and can use that strategically).
 - [**Advanced**] A box can be placed hanging in mid air just before the entrace to the cave which can obstruct people (and is more hidden than on the accelerator)
 - [**_Expert_**] If you cross the start line a little ways out in the water the position ordering gets confused and puts you in a lower position (e.g 2nd instead of 1st) for a moment. You can grab a box from the ramps before and then lock it in at the moment you are in the lower position for a better weapon. You can also avoid red/hunt the leader shells that would be fired at you, if you pass through this point at the moment your opponent fires.
-- [**Advanced**] A box can be placed hanging in mid air just before the entrace to the cave which can obstruct people (and is more hidden than on the accelerator)
 
 ## Kalimari Desert (Kalimari)
 
