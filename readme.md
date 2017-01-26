@@ -28,7 +28,7 @@ The techniques in this section are things anyone who has been racing for a while
 
 - After being hit by anything triple tap the accelerator to go back to full speed instantly.
 - You can hop over bombs or bananas (but not bomb boxes) on the track if you get the timing right. You shouldn't plan to do this usually as it is easy to mess up but can save you if you don't have time to move around it.
-- [**Advanced**] Learn to steal boxes from players who are just behind you. Learn their preferred boxes and routes and look where they are to anticipate which box they want and steal it just before so they get no weapon. Box denying is critical against good opponents to eek out an advantage.
+- Learn to steal boxes from players who are just behind you. Learn their preferred boxes and routes and look where they are to anticipate which box they want and steal it just before so they get no weapon. Box denying is critical against good opponents to eek out an advantage.
 - If you are being shot at with a red as you're getting close to the finishing line on the last lap, make sure you orient your kart directly towards the line so if you get hit you might roll over the line.
 - If you see an obstacle, such as a box, on your path within a short distance it can be hard to avoid. You can use a hop to change direction more quickly to 'hop around' these obstacles. With practice this can be done quite late.
 - [**Advanced**] A nice way to steal boxes is using a power slide, where you are tilted (moving forward but facing at an angle) to suddenly boost sideways across the track taking the boxes before they can change course for another box.
