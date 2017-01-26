@@ -15,7 +15,7 @@ Finally, we play using the UK version of the game running on an original N64 usi
 The techniques in this section are things anyone who has been racing for a while should have already learned. Anyone with experience can skip these.
 
 - Power sliding - you need to learn to power slide. You can get a mini-boost from these once you get good, and when you get really good you can strafe around objects with it.
-- Starting boost - learn when to accelerate at the start of the race to get a boost (just after the second light comes on). However, often there is no benefit to doing this. Going round the first corner in first place is not a good predictor of final placing.
+- Starting boost - learn when to accelerate at the start of the race to get a boost (just after the second light comes on). However, often there is no benefit to doing this on certain courses you may be better getting a strong weapon to start.
 - You can single or chains of bananas forward. It is hard to do but with practice this can be useful for slowing people down.
 - You can prevent spinning out if you hit a banana by tapping your break (you need to have hit it straight on for this to work). You can actually do this without letting go of the accelerator too, but it doesn't seem to make much difference. You can also avoid spinning out by letting off the accelerator.
 - Firing a red in first place creates a 'circler' that will just go round and round the course until it hits something. This can be useful in first place as it will need to pass the other players on the next lap before it gets to you so you'll have a warning (if you've stayed in first) but they won't.
@@ -38,16 +38,15 @@ The techniques in this section are things anyone who has been racing for a while
 
 ## Defence
 
-- If there is a ghost in play and you are 4th (or 3rd) and you pick up a weapon, the player with the ghost often tries to anticipate when you're weapon will lock-in and steal it before you can use it. In this situation you should use your trigger in a non-deterministic fashion to randomly speed up the lock-in.
-- [**Advanced**] When there is a lightning in play, modify your racing line in such a way that the spin out will not take you off the course.
+- If there is a ghost in play and you are 4th (or 3rd) and you pick up a weapon, the player with the ghost often tries to anticipate when you're weapon will lock-in and steal it before you can use it. In this situation you should time your weapon lock in semi-randomly hoping they'll mistime the ghost.
+- Hunt the leader shells mostly follow the centre line of the course, so when someone behind you has fired one, avoid the centre of the track until it has passed you. You will hear a siren noise when the shell is close to a player.
 - [**Advanced**] When there is a lightning in play, modify your racing line in such a way that the spin out will not take you off the course.
 - [**Advanced**] It is possible to shoot obstacles out of your way. Bananas or boxes on ramps or beiges can be shot away with any type of shell which can be critical at times.
 - [**Advanced**] You can use a trail of bananas to stop multiple incoming shells (e.g. a red shell double tap), by laying one of the bananas just before the shells reach you. Use other people's screens to judge.
-- It is possible to ‘drop’ hunt the leaders.
+- It is possible to ‘drop’ hunt the leader shells:
 	- Normal shells/bananas/boxes you are dragging won’t protect you, but dragging a hunt the leader will. Especially useful on Beach / Luigi’s where you can get a hunt the leader easily.
 	- The easiest way to do this is by hoping over any sort of water (e.g on Penguins) or ledge (e.g on Banshee), when the shell is getting close to you. It will hit the corner and disappear. You can also use walls where there is a tight turn (e.g. the turret on Bowsers) or you can turn very sharply round an angled corner. With practice you'll find many spots that work.
 	- [**Advanced**] You can avoid hunt the leaders for a lap by 'hiding' on offload parts of the course as it comes up behind you. It'll pass by and go all the way around the course so don't forget about it in a laps time when it turns up again (a fact that you can use tactically with practice). I've documented some of the places you can do this for certain courses but there are more places.
-[**Advanced**] Learn several racing lines on courses and use them in a non-deterministic fashion. This means it's harder for an attack to place weapons on 'your' line.
 	- [**_Expert_**] It is also possible to drop hunt the leader shells by having it hit another player (i.e. the player in second). They have to be close to you for this to work.
 - [**Advanced**] Learn several racing lines on courses and use them in a non-deterministic fashion. This means it's harder for an attack to place weapons on 'your' line.
 - [**Advanced**] If someone lightnings you just before a jump with a dead zone (Frappe, Bowsers) and you are still sliding you can hop just as you go over the edge and can sometimes clear the fall.
@@ -80,13 +79,13 @@ This course is hard to differentiate yourself on and good weapons often win the 
 
 If in a pack with a wider array of skills then you can't afford to stay back and so need to stay near the front but not in 1st. Ideally 2nd. Then use the same principle as above. Try to get some shells or anything that can hurt 1st at the last moment, but be careful to defend behind you too.
 
--The box suspended under the balloon on the home straight always contains a hunt the leader shell, although you have to get lucky to arrive at the lowest point of the balloon's motion.
+- The box suspended under the balloon on the home straight always contains a hunt the leader shell, although you have to get lucky to arrive at the lowest point of the balloon's motion.
 
 ## Moo Moo Farm (Moo Moo)
 
 Another course where a good weapon can make a big difference, but not as bad as Luigi!
 
--You can drop red shells by driving close to/around the pillars on the course.
+- You can drop red shells by driving close to/around the pillars on the course.
 
 ## Koopa Trooper Beach (Beach)
 
@@ -98,7 +97,6 @@ Another course where a good weapon can make a big difference, but not as bad as 
 - [**Advanced**] If you are hit before the jump then a triple tap to get to full speed and a hop at the the end of the ramp will be enough to get you into the tunnel with the light characters.
 - [**Advanced**] If a hunt the leader is coming, you can avoid it by going around the little mountain to the left after the first turn of the course. The shell will go by and you'll be safe until it does another lap. Timing takes practice, but if you are in the right area this can be a good time saver. Don’t forget it will come back round (but with practice you’ll know when to expect it and can use that strategically).
 - [**Advanced**] A box can be placed hanging in mid air just before the entrace to the cave which can obstruct people (and is more hidden than on the accelerator)
-- [**_Expert_**] If you cross the start line a little ways out in the water the position ordering gets confused and puts you in a lower position (e.g 2nd instead of 1st) for a moment. You can grab a box from the ramps before and then lock it in at the moment you are in the lower position for a better weapon.
 - [**_Expert_**] If you cross the start line a little ways out in the water the position ordering gets confused and puts you in a lower position (e.g 2nd instead of 1st) for a moment. You can grab a box from the ramps before and then lock it in at the moment you are in the lower position for a better weapon. You can also avoid red/hunt the leader shells that would be fired at you, if you pass through this point at the moment your opponent fires.
 - [**Advanced**] A box can be placed hanging in mid air just before the entrace to the cave which can obstruct people (and is more hidden than on the accelerator)
 
@@ -177,9 +175,8 @@ Very rarely race this in multiplayer because it is so long.
 - Lightnings work well to target people on the chicane corner before the ledge jump down to the house entrance, but also work well as people go in to the house. if a bat flies into them it will squash them.
 - [**Advanced**] If you are first to enter the house and you have been lightning'ed to be small, if you turn right then go right over to the wall you can drive down the right hand side of the bats without being squashed. You can the drive in front of where they come out and are immune to being squashed here too. Take the next turn tightly to avoid the next set of bats.
 - [**Advanced**] If you are not first and are small entering the house then crossing the bat line is a big risk, you can go dow the left side of the bats if you can squeeze around the corner tightly and have a bit of luck.
-- [**Advanced**] Inside the ghost house after the right turn there is a cavern on the left. You can hop over this fairly easily with practice and it will save you some time. Good place to lay booby traps against other players.
-- [**Advanced**] Inside the ghost house after the right turn there is a chasm on the left. You can hop over this fairly easily with practice and it will save you some time. Good place to lay booby traps against other players.		 +- [**Advanced**] Inside the ghost house after the right turn there is a cavern on the left. You can hop over this fairly easily with practice and it will save you some time. Good place to lay booby traps against other players.
- -- [*Experimental*] If you mushroom boost over the gap in the house you don't need to hop.
+- [**Advanced**] Inside the ghost house after the right turn there is a chasm on the left. You can hop over this fairly easily with practice and it will save you some time. Good place to lay booby traps against other players.
+- [*Experimental*] If you mushroom boost over the gap in the house you don't need to hop.
 
 ## Rainbow Road
 
@@ -187,4 +184,4 @@ We don't race this as it is long and boring. You should just concentrate on dodg
 
 # Credits
 
-These techniques have been developed in many hard fought races (a large number of which we have documented the results of with a custom app) over several years at the Distilled London office. Credits to Austin, T-Cap, Sam, Tim, and Matt 'Mushroom' Camp for their contributions to techniques, and Craig, Andy, Rasool, Charlie, Maryna and Dave for their enthusiasm!
+These techniques have been developed in many hard fought races (a large number of which we have documented the results of with a custom app) over several years at the Distilled London office. Credits to T-Cap, Sam, Austin, Tim, and Matt 'Mushroom' Camp for their contributions to techniques, and Craig, Andy, Rasool, Charlie, Maryna and Dave for their enthusiasm!
