@@ -159,12 +159,13 @@ Very rarely race this in multiplayer because it is so long.
 - [**Advanced**] You can get over the jump from a standing start if you have a boost. If you get hit just before the jump you can AB-spin to the correct angle and boost over.
 - [**_Expert_**] It is possible to make the jump when you are small, if you have time to get to full speed and do a power slide and then use the power slide boost right at the edge. However it is risky!
 
-## Banshee Boardwalk (Banshee)
+## Banshee Boardwalk (Bansh)
 
 - Lightnings work well to target people on the chicane corner before the ledge jump down to the house entrance, but also work well as people go in to the house. if a bat flies into them it will squash them.
 - [**Advanced**] If you are first to enter the house and you have been lightning'ed to be small, if you turn right then go right over to the wall you can drive down the right hand side of the bats without being squashed. You can the drive in front of where they come out and are immune to being squashed here too. Take the next turn tightly to avoid the next set of bats.
 - [**Advanced**] If you are not first and are small entering the house then crossing the bat line is a big risk, you can go dow the left side of the bats if you can squeeze around the corner tightly and have a bit of luck.
-- [**Advanced**] Inside the ghost house after the right turn there is a chasm on the left. You can hop over this fairly easily with practice and it will save you some time. Good place to lay booby traps against other players. If you mushroom boost over the gap you don't need to hop.
+- [**Advanced**] Inside the ghost house after the right turn there is a chasm on the left. You can hop over this fairly easily with practice and it will save you some time. Good place to lay booby traps against other players.
+- [*Experimental*] If you mushroom boost over the gap in the house you don't need to hop.
 
 ## Rainbow Road
 
