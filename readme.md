@@ -19,7 +19,7 @@ The techniques in this section are things anyone who has been racing for a while
 - You can single or chains of bananas forward. It is hard to do but with practice this can be useful for slowing people down.
 - You can prevent spinning out if you hit a banana by tapping your break (you need to have hit it straight on for this to work). You can actually do this without letting go of the accelerator too, but it doesn't seem to make much difference.
 - Firing a red in first place creates a 'circler' that will just go round and round the course until it hits something. This can be useful in first place as it will need to pass the other players on the next lap before it gets to you so you'll have a warning (if you've stayed in first) but they won't.
-- You can hold both A & B to spin on the spot, which is useful for getting out of corners or manoeuvering around obstacles
+- You can hold both A & B to spin on the spot, which is useful for getting out of corners or manoeuvring around obstacles
 - You can hold down the trigger to drag objects behind you, these will still hurt other players that touch them, but will also act as defence for green and red shells coming from behind (as most do). A shell being dragged can still be fired, and a banana still thrown. Dragging objects also frees up your object box for collecting another item.
 - You can fire green shells backwards by pull back on the control stick when you fire.
 
