@@ -79,8 +79,7 @@ The techniques in this section are things anyone who has been racing for a while
 
 This course is hard to differentiate yourself on and good weapons often win the day. In a tight pack you should hang back just picking up last place boxes waiting for a killer weapon then keep it in reserve to the last moment. A lightning or a star will serve you very well if used after the tunnel on last lap.  A golden boost can also do well given how much you gain by cutting off the corners and going over the grass. This is a similar principle to "grand tour" cycle racing - its advantageous to be in the pack until unless you have the opportunity to form a clean breakaway, putting you out of range of 2nd place weapons.
 
-If in a pack with a wider array of skills then you can't afford to stay back and so need to stay near the front but not in 1st. Ideally 2nd. Then use the same principle as above. Try to get some shells or anything that can hurt 1st at the last moment, but be careful to defend behind you too.
-
+- If in a pack with a wider array of skills then you can't afford to stay back and so need to stay near the front but not in 1st. Ideally 2nd. Then use the same principle as above. Try to get some shells or anything that can hurt 1st at the last moment, but be careful to defend behind you too.
 - The box suspended under the balloon on the home straight always contains a hunt the leader shell, although you have to get lucky to arrive at the lowest point of the balloon's motion.
 
 ## Moo Moo Farm (Moo Moo)
@@ -93,6 +92,7 @@ It's possible to pick a route through the moles to save time, although this is a
 
 ## Koopa Trooper Beach (Beach)
 
+- You don't need a mushroom to get over the ramp. You can make it at full speed, and can hop off the end to improve your chances.
 - The box on top of the hill after the big ramp (just before the final corner) is a guaranteed hunt the leader shell. This can be vital if you've fallen behind, and with practice can be timed to hit someone as they are going for the cave jump.
 - If you get hit by a lightning as you're about to take the cave jump, and you have boosts, then you can position yourself on the ramp to wait to get big. Do NOT use the accelerator when you get big, but instead click the trigger repeatedly until your boost activates. Your accelerator activates before your weapons, and you'll roll off the ramp before the boosts can work.
 - You should know there backup route for if you can't take the cave jump route. You should also realise it can be faster to go to the right of the right side of the archway rather than under the archway then to the right.
