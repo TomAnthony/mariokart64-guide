@@ -6,7 +6,7 @@ This guide doesn't include finding the best racing line asides from notable exce
 
 Some parts assume your opponents are good racers too - if they aren't then the other tips will mean you win fairly easily. :)
 
-Our house rules mean you can't use any course glitches which you can't make a case were designed in to the game. For example, the wall glitch on Wario Stadium is not permitted, but the Yoshi jump down is allowed.
+Our house rules mean you can't use any course glitches for which you can't make a case that they were designed in to the game. For example, the wall glitch on Wario Stadium is not permitted, but the Yoshi Valley corner jump is allowed.
 
 Finally, we play using the UK version of the game running on an original N64 using an Everdrive. We have a Gameshark code to allow multiple players as the same character but no other mods or patches. None of that should affect any of the stuff in here but you never know.
 
@@ -16,23 +16,24 @@ The techniques in this section are things anyone who has been racing for a while
 
 - Power sliding - you need to learn to power slide. You can get a mini-boost from these once you get good, and when you get really good you can strafe around objects with it.
 - Starting boost - learn when to accelerate at the start of the race to get a boost (just after the second light comes on). However, often there is no benefit to doing this on certain courses you may be better getting a strong weapon to start.
-- You can single or chains of bananas forward. It is hard to do but with practice this can be useful for slowing people down.
-- You can prevent spinning out if you hit a banana by tapping your brake (you need to have hit it straight on for this to work). You can actually do this without letting go of the accelerator too, but it doesn't seem to make much difference. You can also avoid spinning out by letting off the accelerator.
-- Firing a red in first place creates a 'circler' that will just go round and round the course until it hits something. This can be useful in first place as it will need to pass the other players on the next lap before it gets to you so you'll have a warning (if you've stayed in first) but they won't.
+- You can throw single, or chains of bananas (one by one), forward. It is hard to do but with practice this can be useful for slowing people down.
+- You can prevent spinning out if you hit a banana by tapping your brake (you need to have hit it straight on for this to work). You can actually do this without letting go of the accelerator too, but it doesn't seem to make much difference. You can also avoid spinning out by letting off the accelerator, but that causes a lot more slow down.
+- Firing a red in first place creates a 'circler' that will just go round and round the course until it hits something. This can be useful in first place as it will need to pass the other players on the next lap before it gets to you so you'll have a warning (if you've stayed in first) but they won't. You avoid circlers by staying off center line (when you can see the shell is coming - by looking at other people's screens).
 - You can hold both A & B to spin on the spot, which is useful for getting out of corners or manoeuvring around obstacles
 - You can hold down the trigger to drag objects behind you, these will still hurt other players that touch them, but will also act as defence for green and red shells coming from behind (as most do). A shell being dragged can still be fired, and a banana still thrown. Dragging objects also frees up your object box for collecting another item.
 - You can fire green shells backwards by pulling back on the control stick when you fire.
 - After you pick up a box, you can speed up 'locking in' the weapon by pulling the trigger. This works a few seconds after picking up a box.
+- You really need to get the hang of looking at the other players' screens to observe what is going on.
 
 # Driving Techniques
 
 - After being hit by anything triple tap the accelerator to go back to full speed instantly.
-- You can hop over bombs or bananas (but not bomb boxes) on the track if you get the timing right. You shouldn't plan to do this usually as it is easy to mess up but can save you if you don't have time to move around it.
-- Learn to steal boxes from players who are just behind you. Learn their preferred boxes and routes and look where they are to anticipate which box they want and steal it just before so they get no weapon. Box denying is critical against good opponents to eek out an advantage.
+- You can hop over bombs (easy-ish) or bananas (requires loads of luck), but not bomb boxes, on the track if you get the timing right. You shouldn't plan to do this usually as it is easy to mess up but can save you if you don't have time to move around it.
 - If you are being shot at with a red as you're getting close to the finishing line on the last lap, make sure you orient your kart directly towards the line so if you get hit you might roll over the line.
 - If you see an obstacle, such as a box, on your path within a short distance it can be hard to avoid. You can use a hop to change direction more quickly to 'hop around' these obstacles. With practice this can be done quite late.
-- [**Advanced**] A nice way to steal boxes is using a power slide, where you are tilted (moving forward but facing at an angle) to suddenly boost sideways across the track taking the boxes before they can change course for another box.
-- [**_Expert_**] You can strafe left and right whilst power sliding to adjust your cornering for items on the course.
+- Learn to steal boxes from players who are just behind you. Learn their preferred boxes and routes and look where they are to anticipate which box they want and steal it just before so they get no weapon. Box denying is critical against good opponents to eek out an advantage.
+	- [**Advanced**] A nice way to steal boxes is using a power slide, where you are tilted (moving forward but facing at an angle) to suddenly boost sideways across the track taking the boxes before they can change course for another box.
+- [**_Expert_**] You can strafe left and right whilst power sliding to adjust your cornering in to dodge traps, or collect boxes.
 
 # Weapon Use
 
@@ -41,35 +42,36 @@ The techniques in this section are things anyone who has been racing for a while
 - If there is a ghost in play and you are 4th (or 3rd) and you pick up a weapon, the player with the ghost often tries to anticipate when you're weapon will lock-in and steal it before you can use it. In this situation you should time your weapon lock in semi-randomly hoping they'll mistime the ghost.
 - Hunt the leader shells mostly follow the centre line of the course, so when someone behind you has fired one, avoid the centre of the track until it has passed you. You will hear a siren noise when the shell is close to a player.
 - [**Advanced**] When there is a lightning in play, modify your racing line in such a way that the spin out will not take you off the course.
-- [**Advanced**] It is possible to shoot obstacles out of your way. Bananas or boxes on ramps or beiges can be shot away with any type of shell which can be critical at times.
-- [**Advanced**] You can use a trail of bananas to stop multiple incoming shells (e.g. a red shell double tap), by laying one of the bananas just before the shells reach you. Use other people's screens to judge.
+- [**Advanced**] It is possible to shoot obstacles out of your way. Bananas or boxes on ramps or bridges can be shot away with any type of shell, which can be critical at times.
+- [**Advanced**] You can use a trail of bananas to stop multiple incoming shells (e.g. a red shell 'double tap' [see below]), by laying one of the bananas just before the shells reach you. Use other people's screens to judge.
 - It is possible to ‘drop’ hunt the leader shells:
-	- Normal shells/bananas/boxes you are dragging won’t protect you, but dragging a hunt the leader will. Especially useful on Beach / Luigi’s where you can get a hunt the leader easily.
-	- The easiest way to do this is by hoping over any sort of water (e.g on Penguins) or ledge (e.g on Banshee), when the shell is getting close to you. It will hit the corner and disappear. You can also use walls where there is a tight turn (e.g. the turret on Bowsers) or you can turn very sharply round an angled corner. With practice you'll find many spots that work.
-	- [**Advanced**] You can avoid hunt the leaders for a lap by 'hiding' on offload parts of the course as it comes up behind you. It'll pass by and go all the way around the course so don't forget about it in a laps time when it turns up again (a fact that you can use tactically with practice). I've documented some of the places you can do this for certain courses but there are more places.
+	- Normal shells/bananas/boxes you are dragging won’t protect you, but dragging a hunt the leader will. Especially useful on Beach / Luigi’s where you can get a hunt the leader easily (see course tips below).
+	- The easiest way to do this is by hopping over any sort of water (e.g the cracks in the ice on the corners of Penguins course) or ledge (e.g corners on Banshee), when the shell is getting close to you. It will hit the corner and disappear. You can also use walls where there is a tight turn (e.g. the turret on Bowsers) or you can turn very sharply round an angled corner. With practice you'll find many spots that work.
+	- [**Advanced**] You can avoid hunt the leaders for a lap by 'hiding' on off-road parts of the course as it comes up behind you. It'll pass by and go all the way around the course so don't forget about it in a laps time when it turns up again (a fact that you can use tactically with practice). I've documented some of the places you can do this for certain courses but there are more places.
 	- [**_Expert_**] It is also possible to drop hunt the leader shells by having it hit another player (i.e. the player in second). They have to be close to you for this to work.
-- [**Advanced**] Learn several racing lines on courses and use them in a non-deterministic fashion. This means it's harder for an attack to place weapons on 'your' line.
-- [**Advanced**] If someone lightnings you just before a jump with a dead zone (Frappe, Bowsers) and you are still sliding you can hop just as you go over the edge and can sometimes clear the fall.
-- [**Advanced**] When ghosted, shells do not chase you, but you can still hit shells and destroy them as though invincible. A good usage of this is to ghost a weapon when close to a player armed with shells just in front of you and then try to bash into the player. You won’t collide with the player as you are ghosted but you will strip any spinning or trailing shells.
+- [**Advanced**] Learn several racing lines on courses and use them in a randomised fashion. This means it's harder for an attack to place weapons on 'your' line.
+- [**Advanced**] If someone lightnings you just before a jump with a dead zone (Frappe, Bowsers) and you are still sliding you can hop just as you go over the edge and can sometimes clear the fall, without falling in (which is a big time sink).
+- [**Advanced**] When ghosted, shells do not chase you, but you can still hit shells and destroy them as though invincible. A good usage of this is to ghost a weapon when close to a player armed with shells just in front of you and then try to bash into the player. You won’t collide with the player, as you are ghosted, but you will strip any spinning or trailing shells.
 - [**Advanced**] If someone 'double taps' (see attack section) you when you are dragging a defence use their screen to judge when the shells are going to hit so you can prep a second object for defending the second shell. If you are dragging a red then you need to wait for the first shell to hit you, but if you have a banana, box or green you can drop/fire backwards your defence just before the first attack shell arrives and it will hit that defence and be neutralised - you then have more time to get next defence object out.
-- [*Experimental*] You can defend against an incoming shell by laying a banana just before the shell hits you. This can result in the shell being destroyed but the banana surviving and being laid on the track.
+- [*Experimental*] You can defend against an incoming shell by laying a banana just before the shell hits you. This can result in the shell being destroyed but the banana surviving and being laid on the track!
 
 ## Attack
 
-- In general it is better to hold a weapon for as long as possible to make sure that you get a lower placed box (e.g. using a red on the 3rd place player while in 4th may cause you to get a 3rd place box when you could have had a 4th place box and then shot them).
-- Try to avoid weapon usage that opens up large gaps in the field ahead of you - when in 3rd or 4th, it's to your advantage for 2nd to be in range to shoot first. When you're 4th, it's to your advantage for 3rd to be in range to shoot 2nd.
-- If you have multiple reds (either spinning or one dragged and one in your box) [or greens] and the person in front of you is dragging a defence object you can 'double tap' them by firing both shells in very quick succession you can strip their defence and hit them. Do it quickly as a skilled player will be able to double defend if there is a gap between the attack shells.
+- You get better weapons from boxes when you are in a lower position.
+- It is often better to hold a weapon until you are near the next set of boxes to make sure that you get a lower placed box (e.g. using a red on the 3rd place player while in 4th may cause you to get a 3rd place box next when you could have had a 4th place box and then shot them).
+- Try to avoid weapon usage that opens up large gaps in the field ahead of you - when in 3rd or 4th, it's to your advantage for 2nd place to be in range to shoot 1st place. When you're 4th, it's to your advantage for 3rd to be in range to shoot 2nd.
+- If you have multiple reds (either spinning or one dragged and one in your box) [or greens] and the person in front of you is dragging a defence object you can 'double tap' them by firing both shells in very quick succession you can strip their defence and hit them. Do it quickly as a skilled player will be able to 'double defend' if there is a gap between the attack shells.
 - Learn to use other's screens to aim your green shells when shooting backwards. On straights you can steer slightly left or right to hit people at an angle.
 - Use single or sets of greens and bounce them off walls at a tight angle so they bounce back and forth to create trouble for those behind you. We call these 'tormentors'. Particularly useful on any small bridges or tunnels.
 - You can also fire greens directly forward in tunnels just before you turn off so they bounce back directly oncoming for those behind you in the tunnel. This is especially easy while power sliding.
 - An obvious good place to place fake boxes is on top of a real box thus making it harder for opponents to see.
 - It can often be beneficial to and slightly hang back in a tight pack. This will allow you to get a last placed box which may be a lightning/invicible which would allow you to pull away. A good example of this is the first set of boxes on any course.
 - [**Advanced**] If someone ahead of you goes off the course, on some courses you can overtake that person but the positions won't update until they are returned to the course. If you lock a box in during this time you'll get a better weapon.
-- [**Advanced**] If you have a string of bananas, quickly spread them across the entire path in quick succession perpendicular to the course meaning opponents can't just stick to one side of the track to avoid them.
+- [**Advanced**] If you have a string of bananas, quickly spread them across the entire path in quick succession perpendicular to the course meaning opponents can't just stick to one side of the track to avoid them. Watch which ones get crashed into, so you know the clear path for the next lap.
 - [**Advanced**] When someone is dragging an object as defence, you can still hit them with a shell if you get it to hit their sides/front. Back shells are obviously the easiest way, but you can also hit their sides from behind them. A red shell shoots forward when you fire it so if you fire it at the right angle it will fire forwards then hit the player from the side bypassing their defence.
 - [**Advanced**] If you are chasing someone to shoot a red but are struggling to get in range then you can fire before clearing a corner by taking outside line or by steering to face away from inside wall so the fired shell's turning circle means it clears the corner and chases the player.
 - [**Advanced**] When dragging a hunt the leader, the shell swings around to in front of you when you fire it. Because it can blast through multiple opponents you can use this to your advantage by swinging it into a racer just in front of you to take both them and the leader out.
-- [**Advanced**] You can lay boxes that hover in the air, this is a great way to make people fall down (e.g. on the jumps on Bowser or Frappe, or the cave ramp on Beach). This won't work on jumps with zippers (like Royal).
+- [**Advanced**] You can lay boxes that hover in the air, this is a great way to make people fall down (e.g. on the jumps on Bowser or Frappe, or the cave ramp on Beach). This won't work on jumps with zippers (like Royal), as you are invicible on a zipper.
 - [**Advanced**] When you ghost another player’s weapon there is a short period where they cannot pick up a new weapon from boxes. You can use this to strategically prevent a player behind you getting a good weapon. This works especially well for heads up.
 - [**_Expert_**] With practice it is possible to shoot someone with a red (or even a green, but v. probabilistic) who is dragging a defence weapon but timing your shot for when they are going over some sort of jump. The shell will land just before they do so they land on it and it circumvents their defence.
 
